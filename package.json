@@ -1,0 +1,16 @@
+{
+  "name": "reggaetonizadol",
+  "version": "1.0.0",
+  "description": "this package translates spanish sentences into reggaeton language",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mridpin",
+  "license": "ISC",
+  "dependencies": {
+    "js-tokens": "^6.0.0",
+    "silabas": "^1.0.3"
+  }
+}
