@@ -1,7 +1,7 @@
 # reggaetonizadol
 This package provides a function to translate a Spanish text into reggaeton language. Usage is simple:
 
-    import reggaetonize from './reggaetonizadol.js';
+    import reggaetonize from 'reggaetonizadol';
 
     console.log(reggaetonize('yo quiero perrearte y fumarme un blon'));
     // >> yo quiero perrealte y fumalme un blon
